@@ -3,4 +3,5 @@ Enhancing Starbuck Customer Experience by building a recommender system that rec
 
 
 Note:
-Extranct the transcript from the zipped file and add to data.
+1. Extract the transcript from the zipped file and add to data.
+2. Change the paths while importing data into the notebook.
